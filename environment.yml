@@ -1,0 +1,17 @@
+name: mltutorials
+channels:
+# - conda-forge
+- defaults
+dependencies:
+- python=3.6
+- ipython
+- jupyter
+- ipywidgets
+- numpy
+- scipy
+- matplotlib
+- pandas
+- pillow
+- scikit-learn
+- tensorflow
+- keras
