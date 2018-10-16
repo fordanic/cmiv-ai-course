@@ -16,6 +16,18 @@ The contained notebooks are to a large extent based upon the following tutorials
 * ``Scikit-Learn`` - [SciPy 2017 Scikit-learn Tutorial](https://github.com/amueller/scipy-2017-sklearn)
 * ``Deep Learning`` - [MachineLearningForMedicalImages](https://github.com/slowvak/MachineLearningForMedicalImages)
 
+## Running with Colab
+You can run all notebooks directly from the Github repo by clicking the links below
+* [01 - Introduction to Jupyter Notebooks and Data Science](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/01%20-%20Introduction%20to%20Jupyter%20Notebooks%20and%20Data%20Science.ipynb)
+* [02 - Supervised learning - Part 1](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/02%20-%20Supervised%20learning%20-%20Part%201.ipynb)
+* [03 - Supervised Learning - Part 2a](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/03%20-%20Supervised%20Learning%20-%20Part%202a.ipynb)
+* [03 - Supervised Learning - Part 2b (optional)](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/03%20-%20Supervised%20Learning%20-%20Part%202b%20(optional).ipynb)
+* [04 - Unsupervised Learning](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/04%20-%20Unsupervised%20Learning.ipynb)
+* [05 - Practical Aspects of Machine Learning](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/05%20-%20Practical%20Aspects%20of%20Machine%20Learning.ipynb)
+* [06 - Artificial Neural Networks](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/06%20-%20Artificial%20Neural%20Networks.ipynb)
+* [07 - Deep Learning and Medical Imaging](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/07%20-%20Deep%20Learning%20and%20Medical%20Imaging.ipynb)
+
+
 ## Installation
 Use a browser to access [Anaconda](https://www.anaconda.com/download/) and from there choose to download and install Anaconda. Please select the right Anaconda version as suitable for your platform (Windows, Linux or macOS) and use the Python 3.6 version (not Python 2.7). Anaconda is a so called package manager for Python.
 
