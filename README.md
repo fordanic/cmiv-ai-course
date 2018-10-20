@@ -25,7 +25,8 @@ You can run all notebooks directly from the Github repo by clicking the links be
 * [04 - Unsupervised Learning](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/04%20-%20Unsupervised%20Learning.ipynb)
 * [05 - Practical Aspects of Machine Learning](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/05%20-%20Practical%20Aspects%20of%20Machine%20Learning.ipynb)
 * [06 - Artificial Neural Networks](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/06%20-%20Artificial%20Neural%20Networks.ipynb)
-* [07 - Deep Learning and Medical Imaging](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/07%20-%20Deep%20Learning%20and%20Medical%20Imaging.ipynb)
+* [07 - Deep Learning and Medical Imaging - Radiology](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/07%20-%20Deep%20Learning%20and%20Medical%20Imaging%20-%20Radiology.ipynb)
+* [08 - Deep Learning and Medical Imaging - Digital Pathology](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/07%20-%20Deep%20Learning%20and%20Medical%20Imaging%20-%20Digital%20Pathology.ipynb)
 
 Note that this requires a Google account to sign in to Google Colaboratory.
 
