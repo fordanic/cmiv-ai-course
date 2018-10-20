@@ -29,6 +29,8 @@ You can run all notebooks directly from the Github repo by clicking the links be
 
 Note that this requires a Google account to sign in to Google Colaboratory.
 
+Note that these notebooks were originally written for a Jupyter Notebook environment. We have madae some adjustments to allow them to be run in Google Colab, however, Google Colab uses a fork of Jupyter Notebooks and as such there will be some discrepancies between the content of the notebooks and the runtime environment in Google Colab.
+
 Remember to change change runtime environment to GPU for the deep learning parts.
 
 ## Local Installation
