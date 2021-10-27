@@ -27,6 +27,7 @@ You can run all notebooks directly from the Github repo by clicking the links be
 * [06 - Artificial Neural Networks](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/06%20-%20Artificial%20Neural%20Networks.ipynb)
 * [07 - Deep Learning and Medical Imaging - Radiology](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/07%20-%20Deep%20Learning%20and%20Medical%20Imaging%20-%20Radiology.ipynb)
 * [08 - Deep Learning and Medical Imaging - Digital Pathology](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/08%20-%20Deep%20Learning%20and%20Medical%20Imaging%20-%20Digital%20Pathology.ipynb)
+* [09 - Heart failure prediction](https://colab.research.google.com/github/fordanic/cmiv-ai-course/blob/master/notebooks/heart_failure_lab.ipynb)
 
 Note that this requires a Google account to sign in to Google Colaboratory.
 
